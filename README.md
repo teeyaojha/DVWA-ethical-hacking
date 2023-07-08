@@ -1,2 +1,2 @@
 # DVWA-ethical-hacking
-Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. In this project, I practiced my skills over this web application and made a project report of my findings.
+Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment and help web developers better understand the processes of securing web applications. I worked on this web application, found its vulnerabilities and their exploitability, and then made a project report explaining my findings.
